@@ -31,3 +31,7 @@
    <a href="https://www.facebook.com/profile.php?id=100011159086119" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href = "mailto:brunovplayer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  
+ ##
+  
+  ![Snake animation](https://github.com/vianabr/vianabr/blob/output/github-contribution-grid-snake.svg)
